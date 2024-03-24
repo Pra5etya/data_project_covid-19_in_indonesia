@@ -9,6 +9,7 @@
 /image
 /testing
 /presentation
+.vscode
 
 # .env
 .env.secret
